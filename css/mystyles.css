@@ -31,6 +31,9 @@ body{
     z-index:0;
 }
 
+.navbar{
+    margin-bottom: 0px;
+}
 .navbar-inverse {
      background: #303F9F;
 }
